@@ -8,4 +8,8 @@ object BKKCrypt {
   def encode(input: String): String = {
     input
   }
+  
+  def decode(input: String): String = {
+    input
+  }
 }
